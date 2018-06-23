@@ -1,2 +1,3 @@
-# complementary_labels_cifar10
-Weak supervised learning for Cifar10
+# complementary_labels_keras
+
+Weak supervised learning using Keras
